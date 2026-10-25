@@ -8,7 +8,7 @@
 
 > **What if galactic missing mass is not an invisible halo of exotic particles, but the kinematic shear of space itself relaxing under differential rotation?**
 
-This repository serves as the galactic-scale observational counterpart to the foundational [**`gravity-as-relaxation`**](https://github.com/BartLeplae/gravity-as-relaxation) project. While `gravity-as-relaxation` demonstrates that Schwarzschild geometry, gravitational light deflection, and relativistic orbital precessions emerge from the steady-state relaxation of a physical vacuum medium ($\nabla \cdot (\sigma(\eta)\nabla\eta) = -S(\vec{x})$), this project scales that exact vacuum mechanics framework up to galactic rotation curves.
+This repository serves as the galactic-scale observational counterpart to the foundational [**`gravity-as-relaxation`**](https://github.com/BartLeplae/gravity-as-relaxation) project. While `gravity-as-relaxation` demonstrates that Schwarzschild geometry, gravitational light deflection, and relativistic orbital precessions emerge from the steady-state relaxation of a physical vacuum medium $$\nabla \cdot (\sigma(\eta)\nabla\eta) = -S(\vec{x})$$, this project scales that exact vacuum mechanics framework up to galactic rotation curves.
 
 By evaluating ~150 galaxies in the **SPARC (Spitzer Photometry & Accurate Rotation Curves)** database alongside zero-baryon virtual galaxies, we demonstrate that galactic flat rotation curves are the natural attractor equilibrium of a co-rotating, shearing space-quantum medium.
 
